@@ -39,9 +39,7 @@ I don’t just build software — I architect **thoughtful, scalable, and human-
 ### 🛠️ Tools & Platforms
 - Git & GitHub  
 - VS Code  
-- Postman  
-- Docker  
-- AWS  
+- Postman   
 - Figma  
 
 ### 🧠 Core CS & Architecture
