@@ -13,9 +13,6 @@ I don’t just build software — I architect **thoughtful, scalable, and human-
 - JavaScript  
 - TypeScript  
 - Java  
-- C  
-- C++  
-- Python  
 
 ### 🎨 Frontend & Mobile
 - React  
@@ -29,7 +26,7 @@ I don’t just build software — I architect **thoughtful, scalable, and human-
 - Node.js  
 - Express  
 - REST APIs  
-- Microservices  
+-spring-boot 
 - MVC Architecture  
 
 ### 🗄️ Databases & Storage
