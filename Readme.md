@@ -32,8 +32,9 @@ I don’t just build software — I architect **thoughtful, scalable, and human-
 ### 🗄️ Databases & Storage
 - MongoDB  
 - MySQL  
-- Firebase  
-- Redis  
+-postgres
+- Redis
+- prisma
 
 ### 🛠️ Tools & Platforms
 - Git & GitHub  
@@ -44,10 +45,9 @@ I don’t just build software — I architect **thoughtful, scalable, and human-
 - Figma  
 
 ### 🧠 Core CS & Architecture
-- Data Structures & Algorithms  
-- System Design  
+- Data Structures & Algorithms   
 - Object-Oriented Programming  
-- Design Patterns  
+
 
 ---
 
